@@ -6,6 +6,10 @@ const cors = require('cors')
 const express = require('express')
 const appEx = express()
 
+https://cloudinfrastructureservices.co.uk/sqlite-nodejs-tutorial-install-and-create-basic-nodejs-api/
+
+
+
 let win;
 
 function createWindow() {
